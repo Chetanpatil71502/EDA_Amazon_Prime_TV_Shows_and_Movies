@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-EDA-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # Amazon Prime Movies & TV Shows – Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
